@@ -20,3 +20,8 @@ In this cheat sheet, you will find a series of practical example commands for ru
 
 #### [Free SVG Image & Icon](https://svgsilh.com)
 All contents are released under Creative Commons CC0.
+
+
+## ETC
+#### [NATO Alphabet For Turkish Letters](https://gist.github.com/saderi/b24a371ad72464d84dd86f2afeb1415d)
+
