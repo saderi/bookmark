@@ -21,7 +21,17 @@ In this cheat sheet, you will find a series of practical example commands for ru
 #### [Free SVG Image & Icon](https://svgsilh.com)
 All contents are released under Creative Commons CC0.
 
+#### [Emoji Unicode Tables](https://apps.timwhitlock.info/emoji/tables/unicode)
+These tables are built from Unicode's EmojiSources.txt. The additional sections refer to symbols that have no mapping to Japanese mobile carriers.
+
+
+
+## Onfline Services
+
+#### [webhook service](https://webhook.site)
+Webhook.site lets you easily inspect, test and automate (with the visual Custom Actions builder, or WebhookScript) any incoming HTTP request or e-mail
+
+
 
 ## ETC
 #### [NATO Alphabet For Turkish Letters](https://gist.github.com/saderi/b24a371ad72464d84dd86f2afeb1415d)
-
