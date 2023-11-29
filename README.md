@@ -26,11 +26,13 @@ These tables are built from Unicode's EmojiSources.txt. The additional sections 
 
 
 
-## Onfline Services
+## Online Services
 
 #### [webhook service](https://webhook.site)
 Webhook.site lets you easily inspect, test and automate (with the visual Custom Actions builder, or WebhookScript) any incoming HTTP request or e-mail
 
+#### [httpbin.org](https://httpbin.org)
+A simple HTTP Request & Response Service.
 
 
 ## ETC
